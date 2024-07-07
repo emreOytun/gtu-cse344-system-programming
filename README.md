@@ -1,5 +1,5 @@
 # GTU CSE344 System Programming
-The assignments given in Gebze Technical University CSE344 System Programming including my own interpreter
+The assignments given in Gebze Technical University CSE344 System Programming
 
 # Grades
 | Homework | Grade |
